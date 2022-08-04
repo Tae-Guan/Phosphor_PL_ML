@@ -10,7 +10,7 @@ Kim, Tae-Guan; Jurakuziev, Dadajon Boykuzi Ugli; Akhtar, M.Shaheer; Yang, O-Bong
 
 Graduate School of Integrated Energy-AI, Jeonbuk National University, Korea, *54896*
 
-_Corresponding author: Akhtar, M.Shaheer (shaheerakhtar@jbnu.ac.kr) Yang, O-Bong (obyang@jbnu.ac.kr)
+_Corresponding author: Akhtar, M.Shaheer (shaheerakhtar@jbnu.ac.kr) Yang, O-Bong (obyang@jbnu.ac.kr)_
 
 ______________________________________________________________________
 
